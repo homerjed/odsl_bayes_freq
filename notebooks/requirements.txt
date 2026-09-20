@@ -1,0 +1,6 @@
+# Shared tutorial environment; extend as exercises are agreed.
+# Direct dependency versions for the lecture-one notebooks (Python 3.12).
+jax[cpu]==0.11.1
+matplotlib==3.11.1
+jupyterlab==4.6.3
+ipykernel==7.3.0
