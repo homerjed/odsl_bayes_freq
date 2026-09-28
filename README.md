@@ -1,4 +1,3 @@
-# Bayesian & Frequentist Probability
 
 ![Cover of lecture one: Bayesian and Frequentist Probability, ODSL Block Course](cover/lecture_01_cover.jpg)
 
