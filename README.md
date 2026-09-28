@@ -6,7 +6,7 @@ Slides, notebooks and exercises for the ODSL block course on Bayesian and freque
 
 ## What's here
 
-- [Lectures](lectures/) — the lecture slides in Keynote format.
+- [Lectures](lecture_pdfs/) — the lecture slides.
 - [Tutorials](tutorials/) — notebook exercises and worked solutions.
 - [Handouts](handouts/) — short summaries of the lectures.
 - The numbered folders, from [01_probability](01_probability/) to [08_hypothesis_testing](08_hypothesis_testing/), contain examples on probability, estimators, Fisher information, frequentist and Bayesian inference, covariance estimation, MCMC and hypothesis testing.
