@@ -16,6 +16,6 @@ Slides, notebooks and exercises for the ODSL block course on Bayesian and freque
 
 ## Tutorials
 
-Start with [lecture one](lectures/01_introduction.key) and the [probability tutorial](tutorials/lecture_01_probability.ipynb).
+Start with [lecture one](lecture_pdfs/01_introduction.pdf) and the [probability tutorial](notebooks/lecture_01_probability.ipynb).
 
-Open the notebooks in Jupyter or VS Code and run the cells from top to bottom. The Python packages are listed in [requirements.txt](requirements.txt).
+Open the notebooks in Jupyter or VS Code and run the cells from top to bottom. The Python packages are listed in [requirements.txt](notebooks/requirements.txt).
